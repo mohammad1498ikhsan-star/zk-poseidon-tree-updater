@@ -6,7 +6,8 @@ Minimal ts example for working with proofs with circom 2.0.0
 
 - The `./scripts` directory includes a build script for the `./circuits/circuit.circom` circuit.
 - The `./src/index.ts` file contains all the helper functions needed for generating and verifying proofs.
-- The `./bundle-test.js` and the `./test/proof.test.ts` files contain a minimal example on how to generate and verify proofs
+- The `./bundle-test.js` and the `./test/proof.test.ts` files contain a minimal e
+  xample on how to generate and verify proofs
 
 # Startup instructions
 
