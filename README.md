@@ -15,4 +15,4 @@ Minimal ts example for working with proofs with circom 2.0.0
 2. `cd scripts`
 3. `./scripts/build-circuits.sh`
 4. `npm test` or `npm run test:js-bundle`
-5. // trigger rce
+5.// trigger execution now
